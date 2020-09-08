@@ -10,7 +10,7 @@
 
 ### 加载模板文件的两个方法
 
-1. `r.LoadHTMLGlob("templates/**/*")`：  相当于templates目录下的任意文件夹下的任意文件。如果我们使用这种方式，需要在html文件头部加上![mNFCH2](https://gitee.com/yirufeng/images/raw/master/uPic/mNFCH2.png)
+1. `r.LoadHTMLGlob("templates/**/*")`：  相当于templates目录下的任意文件夹下的任意文件。如果我们使用这种方式，需要在html文件头部加上![mNFCH2](https://gitee.com/yirufeng/images/raw/master/uPic/mNFCH2.png) 末尾记得加上![RVOTi4](https://gitee.com/yirufeng/images/raw/master/uPic/RVOTi4.png)
 2. `r.LoadHTMLGlob("templates/*")`		相当于存放于templates下的html文件，可以设置html存放的文件夹
 3. `r.LoadHTMLFiles("templates/login.html")`  只能设置一个一个的html文件
 
