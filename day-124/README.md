@@ -57,3 +57,18 @@ func main() {
 	r.Run(":8080")
 }
 ```
+
+
+
+### 总结
+
+![LTMNwD](https://gitee.com/yirufeng/images/raw/master/uPic/LTMNwD.png)
+
+
+
+
+
+## 书籍管理的练习
+
+书籍：id，书名，价格
+
